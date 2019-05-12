@@ -5,8 +5,10 @@ LIRI is a _Language Interpretation and Recognition Interface. LIRI will be a com
 JavaScript & Node.JS
 ==
 
+
 Npm's used Figlet, Colors, Axios, Moment, Dotenv
 =
+
 
 Api's used Spotify Api, Ombd Movie Api, Bands in town Api
 =
