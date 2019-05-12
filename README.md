@@ -6,11 +6,11 @@ JavaScript & Node.JS
 ==
 
 
-Npm's used Figlet, Colors, Axios, Moment, Dotenv
+Npms used Spotify - Figlet, Colors, Axios, Moment, Dotenv
 =
 
 
-Api's used Spotify Api, Ombd Movie Api, Bands in town Api
+Api's used - Ombd Movie Api, Bands in town Api
 =
 
 
