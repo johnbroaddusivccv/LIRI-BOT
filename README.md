@@ -6,11 +6,12 @@ Written in JavaScript With Node.JS
 ---------
 
 
-Npms used Spotify - Figlet, Colors, Axios, Moment, Dotenv
+Npms used Spotify - Figlet, Colors, Axios, Moment.js, Dotenv
 ---------
 
 
 Api's used - Ombd Movie Api, Bands in town Api
+---------
 
 
 
